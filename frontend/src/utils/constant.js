@@ -1,4 +1,6 @@
 const BASE_URL = import.meta.env.VITE_BASE_API_URL;
+console.log(" hiheigub ", import.meta.env.VITE_BASE_API_URL);
+
 
 
 export const USER_API_END_POINT=`${BASE_URL}/api/v1/user`;
